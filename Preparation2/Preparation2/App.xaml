@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Preparation2.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BaseButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#e3e3e3"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="Margin" Value="10,0,10,0"/>
+                <Setter Property="FontSize" Value="20"/>
+            </Style>
+
+            <Style x:Key="BaseEntryStyle" TargetType="Entry">
+                <Setter Property="Margin" Value="10,0,10,0"/>
+                <Setter Property="PlaceholderColor" Value="#cfcfcf"/>
+            </Style>
+            <Style x:Key="BaseLabelStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="25"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

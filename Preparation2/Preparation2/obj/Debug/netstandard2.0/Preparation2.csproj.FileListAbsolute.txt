@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.Res.AppStrings.resources
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.dll
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\ref\Preparation2.dll
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\Preparation2.pdb
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\bin\Debug\netstandard2.0\Preparation2.deps.json
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\bin\Debug\netstandard2.0\Preparation2.dll
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\bin\Debug\netstandard2.0\ref\Preparation2.dll
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\bin\Debug\netstandard2.0\Preparation2.pdb
+C:\Users\PC\source\repos\Preparation2\Preparation2\Preparation2\obj\Debug\netstandard2.0\XamlC.stamp
